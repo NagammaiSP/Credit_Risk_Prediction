@@ -1,5 +1,7 @@
 Loan Application Analysis and Model Performance
 Analysis Report
+
+
 The analysis provides insights into various factors that influence loan repayment. It includes detailed tables showing the relationship between different variables such as loan intent, interest rate, home ownership, loan amount, credit history, income range, and loan repayment status.
 
 Model Performance Analysis
